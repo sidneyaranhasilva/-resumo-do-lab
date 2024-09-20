@@ -1,2 +1,7 @@
-# -resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+# -Localizando serviço por categoria
+
+## -Acessando página principal
+## -Trocando linguagem, idioma e região
+## -Trolcando o layout e thema
+## -Todos os serviços por categoria
+## -Pesquisar o que é o Bastion
